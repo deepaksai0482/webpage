@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "../../../Downloads/portfolio-responsive-complete-master"
+    },
+    {
+      "path": "."
+    },
+    {
+      "path": "../../portfolio"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "webpage"
+  }
+}
